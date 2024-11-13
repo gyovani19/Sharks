@@ -40,6 +40,3 @@ Observações
     Certifique-se de que o arquivo Excel esteja no caminho especificado.
     O script inclui mensagens de verificação para auxiliar na inspeção e depuração dos dados carregados.
 
-Autor
-Esse script foi desenvolvido para facilitar a análise de dados históricos de captura de tubarões no Rio de Janeiro.
-
